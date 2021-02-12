@@ -1,0 +1,13 @@
+C:\Users\Avell\Documents\projeto_teste_codeit\CodeItAirlines\CodeItAirlines\bin\Debug\netcoreapp3.1\CodeItAirlines.exe
+C:\Users\Avell\Documents\projeto_teste_codeit\CodeItAirlines\CodeItAirlines\bin\Debug\netcoreapp3.1\CodeItAirlines.deps.json
+C:\Users\Avell\Documents\projeto_teste_codeit\CodeItAirlines\CodeItAirlines\bin\Debug\netcoreapp3.1\CodeItAirlines.runtimeconfig.json
+C:\Users\Avell\Documents\projeto_teste_codeit\CodeItAirlines\CodeItAirlines\bin\Debug\netcoreapp3.1\CodeItAirlines.runtimeconfig.dev.json
+C:\Users\Avell\Documents\projeto_teste_codeit\CodeItAirlines\CodeItAirlines\bin\Debug\netcoreapp3.1\CodeItAirlines.dll
+C:\Users\Avell\Documents\projeto_teste_codeit\CodeItAirlines\CodeItAirlines\bin\Debug\netcoreapp3.1\CodeItAirlines.pdb
+C:\Users\Avell\Documents\projeto_teste_codeit\CodeItAirlines\CodeItAirlines\obj\Debug\netcoreapp3.1\CodeItAirlines.csprojAssemblyReference.cache
+C:\Users\Avell\Documents\projeto_teste_codeit\CodeItAirlines\CodeItAirlines\obj\Debug\netcoreapp3.1\CodeItAirlines.AssemblyInfoInputs.cache
+C:\Users\Avell\Documents\projeto_teste_codeit\CodeItAirlines\CodeItAirlines\obj\Debug\netcoreapp3.1\CodeItAirlines.AssemblyInfo.cs
+C:\Users\Avell\Documents\projeto_teste_codeit\CodeItAirlines\CodeItAirlines\obj\Debug\netcoreapp3.1\CodeItAirlines.csproj.CoreCompileInputs.cache
+C:\Users\Avell\Documents\projeto_teste_codeit\CodeItAirlines\CodeItAirlines\obj\Debug\netcoreapp3.1\CodeItAirlines.dll
+C:\Users\Avell\Documents\projeto_teste_codeit\CodeItAirlines\CodeItAirlines\obj\Debug\netcoreapp3.1\CodeItAirlines.pdb
+C:\Users\Avell\Documents\projeto_teste_codeit\CodeItAirlines\CodeItAirlines\obj\Debug\netcoreapp3.1\CodeItAirlines.genruntimeconfig.cache
